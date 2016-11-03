@@ -1,3 +1,30 @@
-/** 
-Escribir el CSS necesario aqui
-*/
+div {
+    background-color: #FFA074;
+    width:580px;
+    margin-left: 500px;
+    border: 7px solid #9932CC ;
+    object-position: center;
+    vertical-align: center;
+    font-weight: normal;
+    font-size: 11px;
+    margin-top: 1px;
+    margin-right: 20px;
+    margin-bottom: 35px;
+    content: normal;
+    padding-bottom: 50px;
+    padding: 30px;
+
+}
+
+p {
+    border-top-style: dashed;
+    border-right-style: dashed;
+    border-bottom-style: dashed;
+    border-left-style: dashed;
+    border-width: 1px;
+    background-color: azure;
+    margin: 5px;
+    border-color: green;
+    text-align: center;
+    width: auto;
+    height: 25px;
